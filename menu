@@ -3,6 +3,7 @@
 #include <windows.h>
 using namespace std;
 HANDLE screen;
+
 void menu(int ch)
 {
     system("cls");
