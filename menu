@@ -52,8 +52,6 @@ int main()
             }
             break;
         case 13:
-            if (1 != 6)
-            {
                 switch (i)
                 {
                 case 1:
@@ -68,9 +66,6 @@ int main()
                 default:
                     break;
                 }
-            }
-            else
-                exit(1);
             getch();
             break;
         case 27:
